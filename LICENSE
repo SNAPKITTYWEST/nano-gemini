@@ -1,0 +1,121 @@
+TRIPLE LICENSE NOTICE
+=====================
+
+This software is tri-licensed. You may choose ONE of the following licenses:
+
+1. Sovereign Source License v1.0 (Bel Esprit d'Accord Trust · 2026-06-01)
+2. Business Source License 1.1 (BSL-1.1)
+3. GNU Affero General Public License v3.0 (AGPL-3.0)
+
+Select the license that best fits your use case. If in doubt, the Sovereign
+Source License applies by default for sovereign deployments; BSL-1.1 for
+commercial use; AGPL-3.0 for network services. Proprietary header
+SNAPKITTYWEST-PROPRIETARY-2026-001 must be preserved under all licenses.
+
+================================================================================
+LICENSE 1: Sovereign Source License v1.0
+Bel Esprit d'Accord Trust · 2026-06-01
+================================================================================
+
+Copyright (C) 2026 Ahmad Ali Parr / SNAPKITTYWEST
+Bel Esprit D'Accord Irrevocable Trust
+
+This repository and all associated source code, documentation, and
+specifications are made available under the Sovereign Source License v1.0.
+
+TERMS:
+
+1. SCOPE: This license governs access to, use of, and deployment of
+   the Nano-Gemini software and associated materials.
+
+2. GRANT: The copyright holder grants a non-exclusive, non-transferable
+   right to use, build from source, and deploy this software for the
+   duration of the license period, subject to the conditions below.
+
+3. CONDITIONS:
+   a) A valid Sovereign Node Key must be obtained from the copyright holder
+      for production deployment.
+   b) The key is tied to a specific deployment (hardware + organization).
+   c) Commercial use requires a separate commercial license agreement.
+   d) Forking, redistribution, or modification for redistribution is prohibited
+      without explicit grant.
+
+4. RESTRICTIONS:
+   a) No unauthorized commercial use.
+   b) No unauthorized redistribution.
+   c) No unauthorized derivative works for redistribution.
+   d) No removal of provenance or attribution notices.
+   e) Proprietary header SNAPKITTYWEST-PROPRIETARY-2026-001 must be preserved.
+
+5. INTELLECTUAL PROPERTY:
+   All intellectual property rights remain with the copyright holder.
+   This license does not transfer ownership.
+   Prior art anchored via SHA3-512 + WORM chain + Zenodo.
+
+6. TERMINATION:
+   The license terminates if the holder violates any term.
+   Upon termination, all use must cease and all copies must be destroyed.
+
+7. CONTACT:
+   For Sovereign Node Key requests:
+     Ahmad Ali Parr
+     ahmedparr93@gmail.com
+   For commercial licensing:
+     jessica@snapkitty.com
+
+8. WARRANTY:
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+   THE COPYRIGHT HOLDER DISCLAIMS ALL WARRANTIES.
+
+9. GOVERNING LAW:
+   This license is governed by the laws of the jurisdiction of the
+   copyright holder.
+
+================================================================================
+LICENSE 2: Business Source License 1.1
+================================================================================
+
+Parameters:
+  Licensor:            Ahmad Ali Parr / SNAPKITTYWEST
+                       Bel Esprit d'Accord Trust
+  Licensed Work:       Nano-Gemini (all files)
+  Change Date:         2030-06-01
+  Change License:      Apache License 2.0
+
+The Licensed Work is provided under the terms of the Business Source License 1.1.
+Use of the Licensed Work for production use is subject to the Additional Use Grant.
+
+Additional Use Grant: You may use the Licensed Work in production provided that
+your use does not include offering the Licensed Work as a hosted service to
+third parties (i.e., you may not host the heartbeat lattice as a commercial API
+or time-sealing service) without a commercial license.
+
+On the Change Date, the Licensed Work will be made available under the Change
+License (Apache 2.0).
+
+Full BSL-1.1 text: https://mariadb.com/bsl11/
+
+================================================================================
+LICENSE 3: GNU Affero General Public License v3.0 (AGPL-3.0)
+================================================================================
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU Affero General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option) any
+later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see https://www.gnu.org/licenses/agpl-3.0.html
+
+Source distribution must preserve all proprietary headers and WORM anchors
+for prior art.
+
+================================================================================
+
+Copyright (C) 2026 Ahmad Ali Parr / SNAPKITTYWEST
+Bel Esprit D'Accord Irrevocable Trust
+All rights reserved under the selected license.
